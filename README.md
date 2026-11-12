@@ -1,4 +1,4 @@
-# Sentiment Analysis with BiGRU
+# Sentiment Analysis 
 
 An end-to-end deep learning NLP project that reads the mood inside a sentence. A Bidirectional GRU (BiGRU) model classifies the emotion of any text into six categories, and a FastAPI web app serves real-time predictions through an interactive interface.
 
