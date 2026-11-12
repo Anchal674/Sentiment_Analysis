@@ -108,11 +108,12 @@ Sentiment_Analysis/
 │   └── tokenizer.pkl
 │
 ├── static/
-│   └── index.html
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 │
 ├── main.py
 ├── requirements.txt
-├── .python-version
 ├── runtime.txt
 └── README.md
 ```
